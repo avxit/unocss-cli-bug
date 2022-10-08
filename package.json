@@ -1,0 +1,16 @@
+{
+  "name": "unobug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "unocss \"index.html\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@unocss/cli": "^0.45.28",
+    "@unocss/preset-uno": "^0.45.28"
+  }
+}
